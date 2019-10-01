@@ -1,5 +1,5 @@
 {
-  "parent": "modelsunlocked:item/bed",
+  "parent": "modelsunlocked:block/bed_foot",
   "textures": {
     "texture": "entity/bed/white"
   }

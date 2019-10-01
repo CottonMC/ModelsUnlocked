@@ -1,0 +1,6 @@
+{
+  "parent": "modelsunlocked:block/bed_head",
+  "textures": {
+    "texture": "entity/bed/light_blue"
+  }
+}

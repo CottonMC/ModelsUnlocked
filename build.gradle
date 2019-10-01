@@ -11,7 +11,7 @@ if(rootProject.file('private.gradle').exists()) { //Publishing details
     apply from: 'private.gradle'
 }
 
-archivesBaseName = "MoreModels"
+archivesBaseName = "ModelsUnlocked"
 group = "io.github.cottonmc"
 version = "1.0.0-beta.1+1.14.4"
 

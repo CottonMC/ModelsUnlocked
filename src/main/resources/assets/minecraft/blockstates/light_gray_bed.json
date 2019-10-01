@@ -1,12 +1,12 @@
 {
   "variants": {
-    "facing=north,part=head": { "model": "modelsunleashed:block/light_gray_bed_head" },
-    "facing=east,part=head": { "model": "modelsunleashed:block/light_gray_bed_head", "y": 90 },
-    "facing=south,part=head": { "model": "modelsunleashed:block/light_gray_bed_head", "y": 180 },
-    "facing=west,part=head": { "model": "modelsunleashed:block/light_gray_bed_head", "y": 270 },
-    "facing=north,part=foot": { "model": "modelsunleashed:block/light_gray_bed_foot" },
-    "facing=east,part=foot": { "model": "modelsunleashed:block/light_gray_bed_foot", "y": 90 },
-    "facing=south,part=foot": { "model": "modelsunleashed:block/light_gray_bed_foot", "y": 180 },
-    "facing=west,part=foot": { "model": "modelsunleashed:block/light_gray_bed_foot", "y": 270 }
+    "facing=north,part=head": { "model": "modelsunlocked:block/light_gray_bed_head" },
+    "facing=east,part=head": { "model": "modelsunlocked:block/light_gray_bed_head", "y": 90 },
+    "facing=south,part=head": { "model": "modelsunlocked:block/light_gray_bed_head", "y": 180 },
+    "facing=west,part=head": { "model": "modelsunlocked:block/light_gray_bed_head", "y": 270 },
+    "facing=north,part=foot": { "model": "modelsunlocked:block/light_gray_bed_foot" },
+    "facing=east,part=foot": { "model": "modelsunlocked:block/light_gray_bed_foot", "y": 90 },
+    "facing=south,part=foot": { "model": "modelsunlocked:block/light_gray_bed_foot", "y": 180 },
+    "facing=west,part=foot": { "model": "modelsunlocked:block/light_gray_bed_foot", "y": 270 }
   }
 }
