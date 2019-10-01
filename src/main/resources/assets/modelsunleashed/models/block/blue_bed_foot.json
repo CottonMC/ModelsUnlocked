@@ -1,0 +1,6 @@
+{
+  "parent": "modelsunleashed:block/bed_foot",
+  "textures": {
+    "texture": "entity/bed/blue"
+  }
+}

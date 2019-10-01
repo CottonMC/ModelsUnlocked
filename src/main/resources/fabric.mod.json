@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "modelsunleashed",
+  "version": "$version",
+
+  "name": "Models Unleashed",
+  "description": "Adds JSON models for more blocks",
+  "author": "Juuz",
+
+  "icon": "assets/modelsunleashed/icon.png",
+  "license": "MIT",
+  "contact": {
+    "sources": "https://github.com/CottonMC/ModelsUnleashed"
+  },
+  "environment": "client",
+  "mixins": [
+    "mixins.modelsunleashed.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.4.0"
+  }
+}

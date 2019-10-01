@@ -1,0 +1,6 @@
+{
+  "parent": "modelsunleashed:block/bed_head",
+  "textures": {
+    "texture": "entity/bed/green"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "modelsunleashed:item/bed",
+  "textures": {
+    "texture": "entity/bed/white"
+  }
+}
