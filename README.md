@@ -2,7 +2,7 @@
 
 # Models Unlocked
 
-[>> Downloads <<](https://github.com/CottonMC/FabricStarter/releases)
+[>> Downloads <<](https://github.com/CottonMC/ModelsUnlocked/releases)
 
 *More block models!*
 
