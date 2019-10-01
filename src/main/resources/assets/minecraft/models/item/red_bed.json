@@ -1,0 +1,6 @@
+{
+  "parent": "modelsunlocked:item/bed",
+  "textures": {
+    "texture": "entity/bed/red"
+  }
+}

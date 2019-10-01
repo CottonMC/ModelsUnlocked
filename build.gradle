@@ -13,7 +13,7 @@ if(rootProject.file('private.gradle').exists()) { //Publishing details
 
 archivesBaseName = "ModelsUnlocked"
 group = "io.github.cottonmc"
-version = "1.0.0-beta.1+1.14.4"
+version = "1.0.0+1.14.4"
 
 minecraft {
 }
