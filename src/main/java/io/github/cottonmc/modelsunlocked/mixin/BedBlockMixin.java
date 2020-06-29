@@ -15,11 +15,6 @@ public class BedBlockMixin extends HorizontalFacingBlock {
         super(settings);
     }
 
-    @Inject(method = "hasBlockEntityBreakingRender", at = @At("HEAD"), cancellable = true)
-    private void onHasBlockEntityBreakingRender(BlockState state, CallbackInfoReturnable<Boolean> info) {
-        info.setReturnValue(false);
-    }
-
     @Inject(method = "getRenderType", at = @At("HEAD"), cancellable = true)
     private void onGetRenderType(BlockState state, CallbackInfoReturnable<BlockRenderType> info) {
         info.setReturnValue(BlockRenderType.MODEL);

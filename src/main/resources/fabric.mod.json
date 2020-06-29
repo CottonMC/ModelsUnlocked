@@ -17,6 +17,8 @@
     "mixins.modelsunlocked.json"
   ],
   "depends": {
-    "fabricloader": ">=0.4.0"
+    "fabricloader": ">=0.8.8",
+    "minecraft": ">=1.16.1",
+    "fabric": "*"
   }
 }
